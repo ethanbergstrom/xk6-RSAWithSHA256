@@ -9,6 +9,10 @@
 go install go.k6.io/xk6/cmd/xk6@latest
 ```
 
+```bash
+export PATH=$PATH:$HOME/go/bin
+```
+
 ### How to use
 - Generates custom k6 binary 
 ```bash
