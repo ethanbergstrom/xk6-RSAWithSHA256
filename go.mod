@@ -1,4 +1,4 @@
-module github.com/hoangtd4/xk6-rsa
+module github.com/ethanbergstrom/xk6-RSAWithSHA256
 
 go 1.23.4
 
